@@ -38,7 +38,7 @@ const data = {
 
  const options = {
    method: "POST",
-   auth: "sapta:dcb361387485bccab57263e18b9b4e9e-us12"
+   auth: "sapta:dcb361387485bccab57263e18b9b4e9e-us12dummy"
  }
 
 
